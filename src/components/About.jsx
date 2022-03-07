@@ -5,7 +5,7 @@ import { images } from '../javascript/imageImports';
 const About = () => {
 
 	const weekDays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-	const workingHours = ["7 a.m - 10 p.m", "7 a.m - 10 p.m", "7 a.m - 10 p.m", "7 a.m - 10 p.m", "7 a.m - 10 p.m", "7 a.m - 10 p.m", "7 a.m - 10 p.m"];
+	const workingHours = ["7 a.m - 11 p.m", "7 a.m - 11 p.m", "7 a.m - 11 p.m", "7 a.m - 11 p.m", "7 a.m - 11 p.m", "7 a.m - 11 p.m", "7 a.m - 11 p.m"];
 
 	return (
 		<div className='container-fluid about' id='about'>
